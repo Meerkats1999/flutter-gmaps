@@ -11,7 +11,7 @@
         android:label="place_tracker"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBISDoVsnz1uLLHZk_aFHal8x40bj1vpUo"/>
+            android:value="Api Key"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
